@@ -12,6 +12,11 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class AppiumserverTest {
 	
+	/*
+	 * 
+	 * Added a new comment
+	 * 
+	 */
 	
 	//Appium Launch on Windows
 	private static Process process;
